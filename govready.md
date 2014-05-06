@@ -172,7 +172,7 @@ usg_instances:
 
 managed_by: NuCivic
 managed_by_url: "http://www.nucivic.com"
-license_url: "https://github.com/nuams/dkan"
+license_url: "https://github.com/nuams/dkan/blob/7.x-1.x/LICENSE.txt"
 about_url: "http://www.nucivic.com/dkan/"
 issue_tracker_url: "https://github.com/nuams/dkan/issues"
 src_code_url: "https://github.com/nuams/dkan"
